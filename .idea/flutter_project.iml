@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_animation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_animation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_clippath/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_clippath/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/userlist_form_api/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/userlist_form_api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/whatsapp_ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/whatsapp_ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/you_tube_api/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/you_tube_api/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
